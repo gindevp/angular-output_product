@@ -1,4 +1,4 @@
-
+https://github1s.com/NguyenManhHien12797/demo_directive/blob/HEAD/src/app/product/product.component.ts
 
 I. @Input() @Output() trong Angular
 Trong angular, chúng ta sử dụng khai báo @Input() và @Output() để chia sẻ dữ liệu giữa một thành phần cha và một hoặc nhiều thành phần con với nhau.
